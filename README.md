@@ -1,8 +1,6 @@
 # Social-Media-Post-Query-Program
 C++ program with a terminal-based dashboard that allows users to read &amp; query social media posts from various user classes of a fictional social media company. Designed algorithms utilizing various STL containers such as STL Maps and MultiMaps to help perform data validation
 
-# Social Media Posts Query Program
-
 ## Features
 
 This C++ program allows you to interact with social media user data and posts using various features:
