@@ -1,0 +1,112 @@
+ERROR --> User Info Below <-- ERROR
+===================================
+User02, Thompson, Carol, 2020, 4, 15
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+
+ERROR --> User Info Below <-- ERROR
+===================================
+User01, Smith, Jane, 2021, 08, 07
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+
+ERROR --> User Info Below <-- ERROR
+===================================
+User01, Smith, Jane, 2021, 08, 07
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+
+ERROR --> User Info Below <-- ERROR
+===================================
+User02, Taylor, John, 2020, 12, 31
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+
+ERROR --> User Info Below <-- ERROR
+===================================
+User02, Thompson, Carol, 2020, 04, 15
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+
+ERROR --> User Info Below <-- ERROR
+===================================
+User03, Fillingame, Susan, 2019, 03, 30
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+
+ERROR --> User Info Below <-- ERROR
+===================================
+User04, Samuels, Steven, 2020, 06, 27
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+
+ERROR --> User Info Below <-- ERROR
+===================================
+User04, Jackson, Michael, 1990, 08, 29
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+
+ERROR --> User Info Below <-- ERROR
+===================================
+User07, Martinez, Maria, 2022, 05, 10
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+
+ERROR --> User Info Below <-- ERROR
+===================================
+User08, Davis, Michael, 2023, 03, 21
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+
+ERROR --> User Info Below <-- ERROR
+===================================
+User10, Miller, Lisa, 2022, 06, 04
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+
+ERROR --> User Info Below <-- ERROR
+===================================
+User14, Thompson, Karen, 2023, 03, 09
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+
+ERROR --> User Info Below <-- ERROR
+===================================
+User16, Martinez, Nicole, 2021, 06, 16
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+
+ERROR --> User Info Below <-- ERROR
+===================================
+User18, Rodriguez, Angela, 2022, 02, 17
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+
+ERROR --> User Info Below <-- ERROR
+===================================
+User20, Baker, James, 2022, 07, 09
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+
+ERROR --> User Info Below <-- ERROR
+===================================
+User22, Young, Amanda, 2021, 05, 24
+ERROR MESSAGE: User ID already exists. Cannot place into map.
+-------------------------------------------------------------
+
+

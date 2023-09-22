@@ -1,0 +1,7 @@
+ERROR --> User Info Below <-- ERROR
+===================================
+User99, 2022, 12, 14, 13, 31, 58, I agree that we need to have higher taxes on the rich!
+ERROR MESSAGE: User does not exist in the SMUser Map.
+-----------------------------------------------------
+
+
